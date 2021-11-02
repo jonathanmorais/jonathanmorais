@@ -5,3 +5,4 @@
 - 👩‍👧‍👦  &nbsp;&nbsp; Husband.
 - ⚽️  &nbsp;&nbsp; Flamengo
 - 📨  &nbsp;&nbsp; jonathan.m.lucena@gmail.com
+- 💼  &nbsp;&nbsp; linkedin.com/jonathan-morais-lucena 
