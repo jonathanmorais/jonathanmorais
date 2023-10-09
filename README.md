@@ -4,7 +4,7 @@
 
 # Hello 👋 
 # About me
-- :mortar_board: Graduate in System Information and MSc System Enginner candidate.<br />
+- :mortar_board: System Information Engineer.<br />
 - :computer: Working with Confiability Enginnering and Data Processing.
 - 📨  &nbsp;&nbsp; jonathan.m.lucena@gmail.com.
 
